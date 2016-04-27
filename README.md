@@ -77,3 +77,12 @@ We can specify number of records to fetch in textbox right after table drop down
 - If text box is blank, `10` records will be fetched.
 - If text box value is `0` only schema of table will be visible.
 - In order to view all the records of table we need to provide a large value in textbox.
+
+
+---
+
+techPhernalia : [Website](https://www.techphernalia.com) | [Facebook](https://www.facebook.com/techphernalia) | [Twitter](https://www.twitter.com/techphernalia) 
+
+Durgesh : [Website](https://www.durgesh.org) | [Facebook](https://www.facebook.com/dcbhai) | [Twitter](https://www.twitter.com/durgeshjee)
+
+---
