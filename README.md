@@ -10,7 +10,8 @@ DB Invador allows us to view selective records of a table with ease. It helps us
 ##Installing Application
 Download the application from Github and run setup from Installation folder. It will create a shortcut menu in `Start` -> `techPhernalia`
 
-- Latest build [Github](https://codeload.github.com/techphernalia/DBInvador/zip/master)
+- [Latest build](https://codeload.github.com/techphernalia/DBInvador/zip/master)
+- [Stable Version 2.0.0.7](https://github.com/techphernalia/DBInvador/archive/Version_2_0_0_7.zip)
 
 ##Configure New Server
 Configure new server allows us to provide a friendly name and connection string for the SQL server which can be used later to invade database. In order to configure a new server, follow below steps
