@@ -78,6 +78,11 @@ We can specify number of records to fetch in textbox right after table drop down
 - If text box value is `0` only schema of table will be visible.
 - In order to view all the records of table we need to provide a large value in textbox.
 
+##Connection String
+
+- Microsoft SQL Server
+	- Windows Authentication: `Data Source=server_instance;Integrated Security=True;`
+	- SQL Authentication : `Data Source=server_instance;User Id=user_name;Password=password;`
 
 ---
 

@@ -132,7 +132,7 @@
             this.aboutToolStripMenuItem.Name = "aboutToolStripMenuItem";
             this.aboutToolStripMenuItem.ShortcutKeys = System.Windows.Forms.Keys.F1;
             this.aboutToolStripMenuItem.Size = new System.Drawing.Size(227, 26);
-            this.aboutToolStripMenuItem.Text = "&About DB Invador";
+            this.aboutToolStripMenuItem.Text = "&About DB Invader";
             this.aboutToolStripMenuItem.Click += new System.EventHandler(this.aboutToolStripMenuItem_Click);
             // 
             // toolStripHelp
