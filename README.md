@@ -7,6 +7,11 @@ DB Invador allows us to view selective records of a table with ease. It helps us
 - Specify number of records we want to view at per instance level
 - Filter tables
 
+##Installing Application
+Download the application from Github and run setup from Installation folder. It will create a shortcut menu in `Start` -> `techPhernalia`
+
+- Latest build [Github](https://codeload.github.com/techphernalia/DBInvador/zip/master)
+
 ##Configure New Server
 Configure new server allows us to provide a friendly name and connection string for the SQL server which can be used later to invade database. In order to configure a new server, follow below steps
 
