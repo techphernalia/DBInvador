@@ -4,7 +4,7 @@ Easy way to peek into SQL Servers. It helps you explore all available databases 
 ##Configure New Server##
 Configure new server allows you to provide a friendly name and connection string for the SQL server which can be used later to invade database. In order to configure a new server, follow below steps
 
-![Configure New Server](://www.techphernalia.com/wp-content/uploads/2016/04/Create-New-Server.png) 
+![Configure New Server](//www.techphernalia.com/wp-content/uploads/2016/04/Create-New-Server.png) 
 
 - Navigate to **Servers** -> **New Server** (`Ctrl + N`) to open New Server configuration wizard.
 - Select SQL Server type
