@@ -59,7 +59,8 @@
     <SignAssembly>false</SignAssembly>
   </PropertyGroup>
   <PropertyGroup>
-    <AssemblyOriginatorKeyFile>techPhernalia.pfx</AssemblyOriginatorKeyFile>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
   </PropertyGroup>
   <PropertyGroup>
     <ManifestCertificateThumbprint>767B88F2CB271AEB84BF4BFE39A214B1AC03DA79</ManifestCertificateThumbprint>
@@ -129,7 +130,6 @@
     </Compile>
     <Compile Include="TP_CONSTANTS.cs" />
     <None Include="app.config" />
-    <None Include="DBInvador_TemporaryKey.pfx" />
     <None Include="Properties\app.manifest" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -140,11 +140,11 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
-    <None Include="techPhernalia.pfx" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="DBConfig.xml">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <SubType>Designer</SubType>
     </Content>
     <Content Include="logo.ico" />
     <None Include="Resources\109_AllAnnotations_Help_256x256.png" />
